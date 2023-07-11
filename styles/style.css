@@ -166,3 +166,75 @@
     Copy border-radius: 8px;
     background: #E55473;
 }
+
+.hot-sale-image {
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    margin: 100px 425px 100px 0px;
+}
+
+
+
+.instra-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+}
+
+.instra-description {
+    display: flex;
+
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.sample {
+    margin: 0 110px 0 110px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sample-image {
+    width: 342px;
+    height: 396px;
+    margin-inline: 15px;
+}
+
+
+.last-main {
+    margin: 120px 240px;
+    padding-top: 120px;
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    background-image: url(../images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+}
+
+#email {
+    width: 700px;
+    height: 60px;
+}
+
+.last-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+}
+
+.last-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+}
+.input-mail{
+    margin-left: 287px;
+}
