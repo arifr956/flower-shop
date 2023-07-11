@@ -63,9 +63,13 @@ nav li {
 }
 nav a {
     text-decoration: none;
-    color: #E55473;;
-
+    color: #E55473;
 }
+a:hover {
+    background-color:  #E55473;
+    color: #FFF;
+  }
+
 #searchs{
     width: 700px;
     height: 58px;
