@@ -44,6 +44,33 @@
     font-family: Lato;
     font-size: 20px;
 }
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav>ul {
+    display: flex;
+    align-items: center;
+    margin-right:250px;
+}
+nav li {
+    list-style: none;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 25px;
+}
+nav a {
+    text-decoration: none;
+    color: #E55473;;
+
+}
+#searchs{
+    width: 700px;
+    height: 58px;
+    position: right;
+}
 
 .main-header {
     margin: 100px 600px 20px 600px;
@@ -219,7 +246,7 @@
 
 #email {
     width: 700px;
-    height: 60px;
+    height: 58px;
 }
 
 .last-title {
@@ -244,8 +271,6 @@
     width: 1922px;
     height: 449px;
     background: #111010;
-    flex-shrink: 0;
-    padding-top: 0px;
     padding: 210px 0 0 0; */
 }
 
