@@ -1,0 +1,6 @@
+.header {
+    background: rgba(229, 84, 115, 0.10);
+    max-width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+}
