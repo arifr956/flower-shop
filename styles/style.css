@@ -184,15 +184,17 @@ nav a {
     line-height: 30px;
 }
 
-.hot-sale-btn {
+.hot-sale-btn { 
     display: inline-flex;
+    border: 0;
     padding: 20px 43px;
+    border-radius: 8px;
     align-items: flex-start;
     gap: 10px;
+    color: #FFF;
     margin-left: 212px;
-    Copy border-radius: 8px;
     background: #E55473;
-}
+ } 
 
 .hot-sale-image {
     width: 318px;
