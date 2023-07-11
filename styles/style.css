@@ -4,6 +4,7 @@
     height: 850px;
     flex-shrink: 0;
     display: flex;
+    padding-top: 20px;
 }
 
 .banner {
@@ -74,8 +75,8 @@
 }
 
 .tree1 {
-    max-width: 410px;
-    max-height: 500px;
+    width: 410px;
+    height: 500px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
@@ -85,8 +86,8 @@
 }
 
 .tree2 {
-    max-width: 410px;
-    max-height: 500px;
+    width: 410px;
+    height: 500px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
@@ -96,8 +97,8 @@
 }
 
 .tree3 {
-    max-width: 410px;
-    max-height: 500px;
+    width: 410px;
+    height: 500px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
