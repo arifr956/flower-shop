@@ -58,12 +58,43 @@
 
 .main-description {
     color: rgba(39, 39, 39, 0.60);
-    
+
     text-align: center;
     font-family: Lato;
     font-size: 18px;
 }
-.tree-type{
+
+.tree-type {
     display: flex;
-    margin: 0 240px;
+    margin: 0 240px 50px 240px;
+    height: 500px;
+    justify-content: space-between;
+}
+
+.tree1 {
+    width: 400px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.tree2 {
+    width: 400px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.tree3 {
+    width: 400px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    1x
+}
+.tree-image{
+    align-items: center;
 }
