@@ -123,3 +123,46 @@
     line-height: 35px;
     text-decoration-line: underline;
 }
+
+.hot-sale {
+    display: flex;
+    width: 1922px;
+    height: 620px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.hot-sale-text {
+    padding: 230px 0px 162px 395px;
+    width: 989px;
+}
+
+.hot-sale-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+.hot-sale-description {
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    Copy color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.hot-sale-btn {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    margin-left: 212px;
+    Copy border-radius: 8px;
+    background: #E55473;
+}
